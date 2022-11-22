@@ -229,7 +229,11 @@ Ahora, se realiza PCA con respecto al numero de componentes y la varianza explic
 
 •	Con respecto a la parte de clasificación y predicción de los ataques al corazón, se puede afirmar que aunque no fue con mayor claridad la respuesta, se puede determinar que no se puede medir un clasificador por medio del accuracy, ay que, como se pude observar se obtuvo un accuray relativamente alto, pero, al revisar la matriz de confusion, se pudieron encontrar bastantes errores, esto teniendo en cuenta el  desempeño de cada método mediante la matriz de confusion y el coeficiente de correlación de Matthews. Por último, el mejor método fue K vecinos mas cercanos (Knn).
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 LINK DE ACCESO AL VIDEO EN YOUTUBE.
 
 [enlace en línea](https://youtu.be/wXb5mUUe9xw)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

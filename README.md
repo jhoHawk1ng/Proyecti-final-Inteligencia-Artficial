@@ -1,4 +1,4 @@
-# Proyecto-final-Inteligencia-Artficial
+# Proyecto-Inteligencia-Artficial-Ataques-cardiacos
 
                                                  I.	INTRODUCCION AL PROYECTO
 
